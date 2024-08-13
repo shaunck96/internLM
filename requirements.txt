@@ -1,0 +1,3 @@
+transformers==4.42.4
+bitsandbytes
+ray
